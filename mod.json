@@ -1,0 +1,29 @@
+{
+	"geode": "4.5.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074"
+	},
+	"version": "v1.0.0",
+	"id": "geode.more-languages",
+	"name": "More Languages",
+	"developer": "Fleyzix76",
+	"description": "A mod that adds more languages besides English",
+	"links": {
+		"source": "https://github.com/geode-sdk/MoreLanguages"
+	},
+	"resources": {
+		"spritesheets": {
+			"KB_ControllerSheet": [
+				"resources/controller/*.png"
+			]
+		},
+		"sprites": [
+			"resources/*.png"
+		]
+	},
+	"api": {
+		"include": [
+			"include/*.hpp"
+		]
