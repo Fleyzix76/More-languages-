@@ -37,7 +37,7 @@ jobs:
       - name: Build the mod
         uses: geode-sdk/build-geode-mod@main
         with:
-          bindings: 'TheSillyDoggo/bindings'
+          bindings: 'Fleyzix76/MoreLanguages'
           build-config: 'RelWithDebInfo'
           export-pdb: true
           combine: true
